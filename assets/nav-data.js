@@ -1,0 +1,23 @@
+const NAV_DATA = [
+  { file: 'index.html', label: 'Overview', chapter: 'Start Here' },
+  { file: 'foundations-sources.html', label: 'Divine Sources & Study', chapter: 'Foundations' },
+  { file: 'foundations-architecture.html', label: 'The Infusion Chain', chapter: 'Foundations' },
+  { file: 'symbols-techniques.html', label: 'Techniques, Symbols & Slots', chapter: 'Foundations' },
+  { file: 'templates-limits.html', label: 'Templates & Three Slots', chapter: 'Templates' },
+  { file: 'templates-one-god.html', label: 'The One-God Rule', chapter: 'Templates' },
+  { file: 'templates-geometry.html', label: 'Geometry & Concealment', chapter: 'Templates' },
+  { file: 'templates-destruction.html', label: 'Destruction & Recovery', chapter: 'Templates' },
+  { file: 'making-symbols.html', label: 'Symbol Creation & Preparation', chapter: 'Making & Reloading' },
+  { file: 'making-infusion.html', label: 'Infusion & Field Reloading', chapter: 'Making & Reloading' },
+  { file: 'authority-transition.html', label: 'User Authority & Transition', chapter: 'Authority' },
+  { file: 'authority-blood-bound.html', label: 'Blood-bound Symbols', chapter: 'Authority' },
+  { file: 'activation-control.html', label: 'Activation, Range & Control', chapter: 'Activation' },
+  { file: 'activation-sequencing.html', label: 'Simultaneous Effects & Order', chapter: 'Activation' },
+  { file: 'combat-body.html', label: 'Body Templates & Self-effects', chapter: 'Combat Practice' },
+  { file: 'combat-loop.html', label: 'The Combat Loop', chapter: 'Combat Practice' },
+  { file: 'combat-architecture.html', label: 'Loadouts, Geometry & Deception', chapter: 'Combat Practice' },
+  { file: 'combat-case-study.html', label: 'Case Study: The Three-Slot Dagger', chapter: 'Combat Practice' },
+  { file: 'mastery-style.html', label: 'Fighting Style & Mastery', chapter: 'Mastery & World' },
+  { file: 'world-sources.html', label: 'Forbidden Sources & Modern Infusion', chapter: 'Mastery & World' },
+  { file: 'reference.html', label: 'Rules at a Glance', chapter: 'Reference' }
+];
